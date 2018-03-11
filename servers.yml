@@ -1,0 +1,11 @@
+server1:
+    hostname: panther10.qa.lab.tlv.redhat.com
+    user: root
+    password: 12345678
+    role: db
+
+server2:
+    hostname: seal55.qa.lab.tlv.redhat.com
+    user: root
+    password: 12345678
+    role: webservers
